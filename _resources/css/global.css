@@ -1,0 +1,70 @@
+/* --------------------------------------------
+   reset
+----------------------------------------------- */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {margin:0;padding:0;border:0;font-weight:inherit;font-style:inherit;font-size:100%;font-family:inherit;vertical-align:baseline;}
+body {line-height:1.5;}
+ul, ul li, ol, ol li {list-style: none; margin: 0; padding: 0;}
+table {border-collapse:separate;border-spacing:0;}
+caption, th, td {text-align:left;font-weight:normal;}
+table, td, th {vertical-align:middle;}
+blockquote:before, blockquote:after, q:before, q:after {content:"";}
+blockquote, q {quotes:"" "";}
+a img {border:none;}
+address {font-style:normal;}
+
+/* --------------------------------------------
+   
+----------------------------------------------- */
+body
+{
+	font: 12px/14px helvetica, arial, sans-serif;
+	background-color: #fff;
+}
+
+a
+{
+	text-decoration: none;
+	color: #666;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+select option
+{
+	margin-right: 10px;
+}
+
+/* --------------------------------------------
+   
+----------------------------------------------- */
+div#page
+{
+	width: 600px;
+	margin: 0 auto;
+	padding-top: 30px;
+}
+
+div#page h1
+{
+	font-size: 38px;
+	line-height: 40px;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+
+div#page h2
+{
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 10px;
+	color: #333;
+}
+
+div#page ul
+{
+	margin-bottom: 20px;
+	color: #666;
+}
