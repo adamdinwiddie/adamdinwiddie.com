@@ -42,7 +42,7 @@ select option
 ----------------------------------------------- */
 div#page
 {
-	width: 600px;
+	width: 540px;
 	margin: 0 auto;
 	padding-top: 30px;
 }
@@ -67,4 +67,15 @@ div#page ul
 {
 	margin-bottom: 20px;
 	color: #666;
+}
+
+img#logo
+{
+	float: right;
+	margin-left: 20px;
+}
+
+div#content
+{
+	float: left;
 }
